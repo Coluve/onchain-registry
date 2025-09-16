@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registry Explorer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-indigo-600">On-Chain Registry</h1>
+      <a href="index.html" class="text-gray-600 hover:text-indigo-600">Back</a>
+    </div>
+  </nav>
+
+  <!-- Explorer -->
+  <section class="container mx-auto px-6 py-12">
+    <h2 class="text-3xl font-bold mb-6">Registry Explorer</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+      <!-- Asset Card -->
+      <div class="p-6 bg-white rounded-xl shadow-md">
+        <h3 class="font-semibold text-xl mb-1">Parcel #9481</h3>
+        <p class="text-gray-600 mb-2">Physical Real Estate</p>
+        <p class="text-sm text-green-600 font-medium mb-4">✔ Verified</p>
+        <div class="text-sm text-gray-600 space-y-1">
+          <p><span class="font-medium">Owner:</span> Atlas Trust LLC</p>
+          <p><span class="font-medium">Lineage:</span> 3 Transfers</p>
+          <p><span class="font-medium">Compliance:</span> Up-to-date</p>
+        </div>
+      </div>
+
+      <!-- Asset Card -->
+      <div class="p-6 bg-white rounded-xl shadow-md">
+        <h3 class="font-semibold text-xl mb-1">NFT-8927</h3>
+        <p class="text-gray-600 mb-2">Digital Artwork</p>
+        <p class="text-sm text-yellow-600 font-medium mb-4">⚠ Pending Verification</p>
+        <div class="text-sm text-gray-600 space-y-1">
+          <p><span class="font-medium">Owner:</span> Kairos Studio</p>
+          <p><span class="font-medium">Lineage:</span> 1 Transfer</p>
+          <p><span class="font-medium">Compliance:</span> Awaiting docs</p>
+        </div>
+      </div>
+
+      <!-- Add more asset cards dynamically -->
+    </div>
+  </section>
+
+</body>
+</html>

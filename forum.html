@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matrix Forum</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-900">
+
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+      <h1 class="text-2xl font-bold text-indigo-600">On-Chain Registry</h1>
+      <a href="index.html" class="text-gray-600 hover:text-indigo-600">Back</a>
+    </div>
+  </nav>
+
+  <!-- Forum Threads -->
+  <section class="container mx-auto px-6 py-12">
+    <h2 class="text-3xl font-bold mb-6">Matrix Forum</h2>
+
+    <div class="space-y-6">
+      <div class="p-6 bg-white rounded-xl shadow-md">
+        <h3 class="text-xl font-semibold mb-1">How do I run a validator node?</h3>
+        <p class="text-gray-600 mb-2">Started by <span class="font-medium text-indigo-600">NodeMaster</span></p>
+        <p class="text-gray-700">Looking for setup steps, hardware specs, and expected ROI...</p>
+      </div>
+
+      <div class="p-6 bg-white rounded-xl shadow-md">
+        <h3 class="text-xl font-semibold mb-1">Asset verification process for physical goods?</h3>
+        <p class="text-gray-600 mb-2">Started by <span class="font-medium text-indigo-600">ComplianceGuru</span></p>
+        <p class="text-gray-700">We need clearer standards for verifying real-world items. Any best practices?</p>
+      </div>
+    </div>
+
+    <!-- New Post Form -->
+    <div class="mt-12">
+      <h3 class="text-2xl font-semibold mb-4">Start a Discussion</h3>
+      <form class="space-y-4 max-w-2xl">
+        <input type="text" placeholder="Thread Title" class="w-full border p-3 rounded-xl">
+        <textarea placeholder="Your message..." class="w-full border p-3 rounded-xl h-32"></textarea>
+        <button type="submit" class="px-6 py-3 bg-indigo-600 text-white rounded-xl hover:bg-indigo-700">Post Thread</button>
+      </form>
+    </div>
+  </section>
+
+</body>
+</html>
