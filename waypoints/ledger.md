@@ -1,8 +1,8 @@
-# Waypoint Ledger
+# Waypoint Ledger Entry
 
 ## Waypoint ID
 
-WP-INIT-LOCAL-SERVICE-OFFER
+WP-A1-GENERATE-COMPANY-MARKDOWNS-v1
 
 ## Date
 
@@ -14,15 +14,15 @@ Coluve/onchain-registry
 
 ## Objective
 
-Initialize repo for Coluve autonomous waypoint iteration.
+Generate company-specific Markdown context for autonomous waypoint iteration.
 
 ## State before
 
-DISCOVER_CURRENT_STATE
+BIND_OBLIGATIONS
 
 ## State after
 
-BIND_OBLIGATIONS
+SIMULATE_DRY_RUN
 
 ## Risk tier
 
@@ -30,13 +30,13 @@ R1
 
 ## Files changed
 
-- AGENTS.md
 - docs/company-context.md
 - docs/local-service-offer.md
 - docs/metrics.md
 - docs/risk-notes.md
 - docs/seo-notes.md
 - waypoints/ledger.md
+- reports/.gitkeep
 
 ## Metric targeted
 
@@ -44,7 +44,7 @@ Operational readiness.
 
 ## Verification
 
-Required operating files created.
+Markdown files define the company context, local service offer, risk notes, SEO notes, and metrics.
 
 ## Rollback
 
@@ -52,7 +52,7 @@ Close PR or revert commit.
 
 ## Next waypoint
 
-Classify company-specific local service offer.
+Use Codex to improve the company website or docs based on this company context.
 
 ## Status
 
