@@ -1,21 +1,38 @@
-# Company Context — onchain-registry
+# Company Context — On-chain Registry
 
-Status: Needs classification.
+Status: Deferred
+
+Domain:
+onchainregistry.org
+
+Repository:
+Coluve/onchain-registry
+
+Local service offer:
+Deferred; do not sell tokenization or registry services yet
+
+Target customer:
+TBD
+
+Service area:
+TBD
+
+Primary CTA:
+Learn more
+
+Launch priority:
+Deferred
+
+Risk level:
+Very high
+
+Risk notes:
+Tokenization, ownership ledgers, securities, property rights, compliance, and financial claims require legal review.
+
+Platform pivot trigger:
+Only proceed after explicit human approval, legal review, and clear use case.
 
 Instruction:
 Use AGENTS.md as the operating contract. Follow the waypoint structure. Default to local-service-first planning and static-site-safe improvements.
 
-Local service offer:
-TBD.
-
-Target customer:
-TBD.
-
-Primary CTA:
-TBD.
-
-Risk notes:
-TBD.
-
-Platform pivot trigger:
-Do not build platform features until the local service offer is clear and manually sellable.
+Do not build platform features until the local service offer is clear, manually sellable, and approved for expansion.

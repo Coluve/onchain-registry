@@ -1,8 +1,12 @@
-# Risk Notes
+# Risk Notes — On-chain Registry
 
-## Current risk level
+## Risk level
 
-Unknown.
+Very high
+
+## Primary risk notes
+
+Tokenization, ownership ledgers, securities, property rights, compliance, and financial claims require legal review.
 
 ## Watch areas
 
@@ -14,6 +18,8 @@ Unknown.
 - Domain/DNS settings
 - Regulated services
 - Unsupported claims
+- Insurance/licensing requirements
+- Safety-sensitive services
 
 ## Rule
 
