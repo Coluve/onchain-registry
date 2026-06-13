@@ -35,3 +35,7 @@ No forms, payments, analytics, tracking, scripts, dependencies, backend logic, c
 ## Next recommended waypoint
 
 WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
+
+## Visual follow-up
+
+After live review feedback that the sites looked too similar, updated `index.html` and `style.css` with a repo-specific visual treatment matching the available mockup direction while keeping the same R1 safety constraints.

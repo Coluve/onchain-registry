@@ -11,3 +11,12 @@
 - Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness
 - Verification: Static file inspection, prohibited-feature scan, risky-claim scan, git diff --check, and git status review.
 - Next waypoint: WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
+
+## WP-MULTIREPO-MOCKUP-WEBSITE-PASS-v1 visual follow-up
+
+- Date: 2026-06-12
+- State before: EXECUTE_COMMIT
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness
+- Note: Added stronger repo-specific visual direction after live review showed the first baseline was too generic.
