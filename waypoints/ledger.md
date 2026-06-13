@@ -20,3 +20,15 @@
 - Risk tier: R1
 - Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness
 - Note: Added stronger repo-specific visual direction after live review showed the first baseline was too generic.
+
+## WP-MULTIREPO-MOCKUP-WEBSITE-PASS-v1 client-facing refinement
+
+- Date: 2026-06-13
+- Repo: Coluve/onchain-registry
+- Objective: Refine the static GitHub Pages website into a polished conservative holding page for a deferred exploratory concept.
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness
+- Verification: SVG XML parse check, prohibited-feature scan, risky-claim scan, git diff --check, and git status review.
+- Next waypoint: WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
