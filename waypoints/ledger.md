@@ -56,3 +56,9 @@
 - Metric targeted: customer education, navigation depth, SEO readiness, risk clarity, operational readiness
 - Verification: Static link/file existence check, prohibited-mechanics scan, risky-claim scan, git diff --check, and git status review.
 - Next waypoint: qualified review gate documentation
+## 2026-06-14 - WP-MULTIPAGE-CUSTOMER-RESOURCE-SITE-v2
+- Waypoint ID: WP-MULTIPAGE-CUSTOMER-RESOURCE-SITE-v2
+- State before: CUSTOMER_RESOURCE_PAGES_CREATED
+- State after: CUSTOMER_RESOURCE_PAGES_REFINED
+- Risk tier: R1
+- Metric targeted: page usefulness, claim safety, static performance, review readiness, conservative concept clarity

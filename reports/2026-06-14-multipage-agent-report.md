@@ -23,3 +23,5 @@ No service sale, tokenization functionality, registry functionality, customer on
 ## Next recommended waypoint
 
 Qualified review gate documentation.
+## Refinement pass
+- Expanded status, review-gate, and boundaries pages with conservative public guidance and explicit deferred posture.
