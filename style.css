@@ -582,3 +582,12 @@ h3 {
     animation-iteration-count: 1 !important;
   }
 }
+.page-hero { max-width: 940px; padding: 88px 0 52px; }
+.page-hero > p:not(.eyebrow) { max-width: 760px; color: var(--muted, #667085); font-size: 1.14rem; }
+.cta-row { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 28px; }
+.resource-section { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; padding: 28px 0 78px; }
+.resource-card { padding: 30px; background: var(--panel, #ffffff); border: 1px solid var(--line, rgba(17, 24, 39, 0.14)); border-radius: 20px; box-shadow: 0 18px 44px rgba(17, 24, 39, 0.08); }
+.resource-card p { color: var(--muted, #667085); }
+.resource-band { display: grid; grid-template-columns: 1fr auto; gap: 28px; align-items: center; margin: 0 0 84px; padding: 34px; background: var(--paper, #f6f1e9); border: 1px solid var(--line, rgba(17, 24, 39, 0.14)); border-radius: 22px; }
+.resource-band p { color: var(--muted, #667085); }
+@media (max-width: 900px) { .resource-section, .resource-band { grid-template-columns: 1fr; } .resource-card, .resource-band { padding: 24px; } }

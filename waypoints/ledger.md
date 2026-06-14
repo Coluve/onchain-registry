@@ -44,3 +44,15 @@
 - Metric targeted: accessibility, SEO/social preview readiness, visual polish, conversion clarity, performance, operational readiness
 - Verification: Static metadata inspection, accessibility affordance scan, prohibited-mechanics scan, git diff --check, and git status review.
 - Next waypoint: WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
+
+## WP-MULTIPAGE-CUSTOMER-RESOURCE-SITE-v1
+
+- Date: 2026-06-14
+- Repo: Coluve/onchain-registry
+- Objective: Add multiple working informational pages that clarify deferred status, review gate, and public boundaries.
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: customer education, navigation depth, SEO readiness, risk clarity, operational readiness
+- Verification: Static link/file existence check, prohibited-mechanics scan, risky-claim scan, git diff --check, and git status review.
+- Next waypoint: qualified review gate documentation
