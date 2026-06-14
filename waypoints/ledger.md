@@ -32,3 +32,15 @@
 - Metric targeted: visible website update, mockup fidelity, clarity, conversion, performance, operational readiness
 - Verification: SVG XML parse check, prohibited-feature scan, risky-claim scan, git diff --check, and git status review.
 - Next waypoint: WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
+
+## WP-PORTFOLIO-FRONTEND-POLISH-v1
+
+- Date: 2026-06-14
+- Repo: Coluve/onchain-registry
+- Objective: Improve public frontend readiness through accessibility, metadata, brand polish, and motion-safety refinements.
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Metric targeted: accessibility, SEO/social preview readiness, visual polish, conversion clarity, performance, operational readiness
+- Verification: Static metadata inspection, accessibility affordance scan, prohibited-mechanics scan, git diff --check, and git status review.
+- Next waypoint: WP-ONCHAIN-REGISTRY-REVIEW-GATE-v1
