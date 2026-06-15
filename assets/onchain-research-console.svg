@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 620" role="img" aria-labelledby="title desc">
+  <title id="title">On-Chain Registry research workspace preview</title>
+  <desc id="desc">Illustrated market research workspace with watchlist rows, comparison cards, learning notes, and a risk disclosure panel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset=".55" stop-color="#eef4f8"/>
+      <stop offset="1" stop-color="#f7f0df"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17202b"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <filter id="shadow" x="-18%" y="-18%" width="136%" height="150%">
+      <feDropShadow dx="0" dy="22" stdDeviation="20" flood-color="#17202b" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="920" height="620" rx="34" fill="url(#bg)"/>
+  <g opacity=".38" stroke="#c7d2dd" stroke-width="2">
+    <path d="M72 114h776M72 196h776M72 278h776M72 360h776M72 442h776"/>
+    <path d="M176 70v472M304 70v472M432 70v472M560 70v472M688 70v472"/>
+  </g>
+  <g transform="translate(58 58)" filter="url(#shadow)">
+    <rect width="508" height="430" rx="28" fill="#fff"/>
+    <rect x="28" y="28" width="452" height="68" rx="18" fill="url(#navy)"/>
+    <text x="52" y="70" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900" fill="#fff">Market overview</text>
+    <text x="337" y="70" font-family="Inter, Arial, sans-serif" font-size="14" fill="#cbd5e1">Research mode</text>
+    <g transform="translate(28 126)">
+      <rect width="452" height="62" rx="16" fill="#f8fafc" stroke="#d8e0e8"/>
+      <text x="24" y="38" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#17202b">Stocks</text>
+      <text x="162" y="38" font-family="Inter, Arial, sans-serif" font-size="15" fill="#667085">Indices, sectors, company notes</text>
+      <path d="M365 42h54" stroke="#4f8f67" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(28 204)">
+      <rect width="452" height="62" rx="16" fill="#f8fafc" stroke="#d8e0e8"/>
+      <text x="24" y="38" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#17202b">Crypto</text>
+      <text x="162" y="38" font-family="Inter, Arial, sans-serif" font-size="15" fill="#667085">Market caps, themes, education</text>
+      <path d="M365 42h54" stroke="#8f7b4f" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(28 282)">
+      <rect width="452" height="62" rx="16" fill="#f8fafc" stroke="#d8e0e8"/>
+      <text x="24" y="38" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#17202b">Tokenization</text>
+      <text x="162" y="38" font-family="Inter, Arial, sans-serif" font-size="15" fill="#667085">Trends and review questions</text>
+      <path d="M365 42h54" stroke="#4f6f91" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(28 364)">
+      <rect width="210" height="38" rx="19" fill="#ecf3f8"/>
+      <text x="105" y="25" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#1d4f72">Compare assets</text>
+      <rect x="252" width="200" height="38" rx="19" fill="#f3efe4"/>
+      <text x="352" y="25" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#6f5b2f">Start learning</text>
+    </g>
+  </g>
+  <g transform="translate(604 92)" filter="url(#shadow)">
+    <rect width="250" height="154" rx="24" fill="#fff"/>
+    <text x="24" y="42" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#17202b">Watchlist view</text>
+    <text x="24" y="72" font-family="Inter, Arial, sans-serif" font-size="13" fill="#667085">Organize market ideas without advice.</text>
+    <circle cx="42" cy="112" r="12" fill="#4f8f67"/>
+    <rect x="66" y="104" width="64" height="14" rx="7" fill="#cbd5e1"/>
+    <circle cx="156" cy="112" r="12" fill="#8f7b4f"/>
+    <rect x="180" y="104" width="46" height="14" rx="7" fill="#cbd5e1"/>
+  </g>
+  <g transform="translate(604 278)" filter="url(#shadow)">
+    <rect width="250" height="176" rx="24" fill="#17202b"/>
+    <text x="24" y="42" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="900" fill="#fff">Trust &amp; risk</text>
+    <text x="24" y="72" font-family="Inter, Arial, sans-serif" font-size="13" fill="#cbd5e1">Research only. No trade signals.</text>
+    <g fill="none" stroke="#8f7b4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M32 112l13 13 28-34"/>
+      <path d="M32 146l13 13 28-34"/>
+    </g>
+    <rect x="100" y="102" width="102" height="12" rx="6" fill="#64748b"/>
+    <rect x="100" y="136" width="84" height="12" rx="6" fill="#64748b"/>
+  </g>
+  <g transform="translate(216 512)">
+    <rect width="488" height="54" rx="27" fill="#fff" opacity=".86"/>
+    <text x="244" y="35" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="900" fill="#17202b">Education, comparison, discussion, and risk-aware research</text>
+  </g>
+</svg>

@@ -62,3 +62,15 @@
 - State after: CUSTOMER_RESOURCE_PAGES_REFINED
 - Risk tier: R1
 - Metric targeted: page usefulness, claim safety, static performance, review readiness, conservative concept clarity
+
+## 2026-06-15 - WP-ONCHAIN-REGISTRY-RESEARCH-PLATFORM-REPOSITION-v1
+
+- Waypoint ID: WP-ONCHAIN-REGISTRY-RESEARCH-PLATFORM-REPOSITION-v1
+- State before: DISCOVER_CURRENT_STATE
+- State after: EXECUTE_COMMIT
+- Risk tier: R1
+- Objective: Reposition On-Chain Registry as a compliance-aware market insights and investment research platform rather than a financial advisor, prediction product, trade-signal service, hype-heavy crypto platform, or deferred-only holding page.
+- Files changed: index.html, style.css, markets.html, insights.html, portfolio.html, learn.html, community.html, tokenization.html, trust-risk.html, assets/onchain-research-console.svg, docs/company-context.md, docs/local-service-offer.md, docs/design-reference.md, reports/2026-06-15-platform-reposition-agent-report.md, waypoints/ledger.md, and old status/review-gate/boundaries pages removed.
+- Metric targeted: research clarity, risk disclosure, educational value, navigation depth, responsive design, accessibility, static performance, and claim safety.
+- Verification: Static local link check, prohibited-mechanics scan, risky-language scan, SVG parse check, git diff --check, and browser render smoke test.
+- Next waypoint: WP-ONCHAIN-REGISTRY-EDITORIAL-POLICY-v1.

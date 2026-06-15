@@ -1,6 +1,6 @@
-# Company Context — On-chain Registry
+# Company Context — On-Chain Registry
 
-Status: Deferred
+Status: Static public research-platform positioning with compliance-aware boundaries
 
 Domain:
 onchainregistry.org
@@ -8,31 +8,29 @@ onchainregistry.org
 Repository:
 Coluve/onchain-registry
 
-Local service offer:
-Deferred; do not sell tokenization or registry services yet
+Core positioning:
+On-Chain Registry is a market insights and research platform that helps users explore stocks, crypto, tokenization trends, and investment ideas with more clarity.
 
-Target customer:
-TBD
+Mission:
+On-Chain Registry exists to make market research, asset tracking, and financial education more organized, transparent, and accessible.
 
-Service area:
-TBD
+Primary audience:
+People researching public markets, crypto markets, tokenization trends, watchlists, and investing concepts for general educational purposes.
 
 Primary CTA:
-Learn more
+Explore Market Insights
 
-Launch priority:
-Deferred
+Secondary CTAs:
+Track Your Watchlist, Start Learning, Join the Discussion, View Market Trends.
 
 Risk level:
 Very high
 
 Risk notes:
-Tokenization, ownership ledgers, securities, property rights, compliance, and financial claims require legal review.
+Financial markets, crypto, tokenization, securities, ownership records, compliance, taxes, investment ideas, and asset tracking create reliance risk. Public pages must remain static, educational, general, and non-advisory.
 
-Platform pivot trigger:
-Only proceed after explicit human approval, legal review, and clear use case.
+Current public-site boundary:
+The site may present a market insights and research platform concept with market overviews, educational content, asset comparison prompts, watchlist organization, structured discussions, and tokenization trend education. It must not provide personalized advice, trade signals, predictions, accurate-forecast claims, trade mirroring, advisory services, tokenization functionality, ownership records, securities claims, compliance coverage, financial planning, brokerage, exchange, custody, payments, accounts, or customer data collection.
 
 Instruction:
-Use AGENTS.md as the operating contract. Follow the waypoint structure. Default to local-service-first planning and static-site-safe improvements.
-
-Do not build platform features until the local service offer is clear, manually sellable, and approved for expansion.
+Use AGENTS.md as the operating contract. Follow the waypoint structure. Keep all public language research-oriented, calm, accessible, and conservative.

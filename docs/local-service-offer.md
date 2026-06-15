@@ -1,29 +1,41 @@
-# Local Service Offer - On-chain Registry
-
-## Current status
-
-Deferred. On-chain Registry is exploratory and should not sell tokenization, registry, ownership, legal, financial, investment, securities, compliance, or related services at this stage.
+# Public Offer — On-Chain Registry
 
 ## Public positioning
 
-Use a conservative holding-page posture only. The page may state that the concept is deferred pending review, but it must not imply availability, functionality, customer onboarding, ownership records, tokenization, compliance coverage, investment value, or legal effect.
+Compliance-aware market insights and investment research platform concept
 
-## Target customer
+## Core positioning
 
-Not defined for public selling. Any future audience requires explicit human approval and qualified review.
+On-Chain Registry is a market insights and research platform that helps users explore stocks, crypto, tokenization trends, and investment ideas with more clarity.
 
-## Included services
+## Mission
 
-None. No public service is offered in this waypoint.
+On-Chain Registry exists to make market research, asset tracking, and financial education more organized, transparent, and accessible.
 
-## Exclusions
+## Customer-facing outcomes
 
-- No tokenization functionality.
-- No registry service sale.
-- No legal, ownership, securities, investment, financial, or compliance claims.
-- No payment, booking, account, dashboard, API, backend, analytics, or tracking functionality.
-- No customer data collection.
+- Explore market insights.
+- Track a watchlist-style portfolio view.
+- Compare stocks and crypto at a research level.
+- Learn investing concepts.
+- Join structured market discussions.
+- Discover tokenization trends as an educational topic.
 
-## Review gate
+## Static-site exclusions
 
-Only proceed after explicit human approval, qualified review, and a clearly documented use case.
+- No personalized financial, investment, legal, tax, securities, compliance, or accounting advice.
+- No trade signals, trade mirroring, AI market predictions, accurate-forecast claims, one-on-one advisory services, expert consultation services, or premium investment strategies.
+- No brokerage, exchange, wallet, custody, payment, account, dashboard, API, backend, analytics, tracking, or customer data collection.
+- No token issuance, tokenization functionality, ownership registry, asset registry, securities offering, compliance coverage, or legal effect.
+- No sponsored financial content as a core feature, data monetization, hype-heavy crypto claims, or guaranteed-sounding AI assistant language.
+
+## Content standards
+
+- Present all market content as general research and education.
+- Use watchlist language rather than connected portfolio management.
+- Use tokenization as a trend and vocabulary topic only.
+- Include clear risk boundaries anywhere users might infer advice, prediction, or functionality.
+
+## Next safe waypoint
+
+Create a reviewed editorial policy for market research examples, including source requirements, timestamping, risk disclosures, and prohibited phrases before any time-sensitive market data or real asset examples are published.
